@@ -1,0 +1,57 @@
+m255
+o
+cModel Technology
+dC:\Modeltech_5.5e\examples
+Emod9_counter
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1635864076
+dC:\Users\P.O.M.G\Desktop\MOD_9_counter
+FC:/Users/P.O.M.G/Desktop/MOD_9_counter/behavioral_counter.vhd
+l0
+L6
+V2f33UhFK]CkXkVi48Z`ma0
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Abehavioral
+DE work mod9_counter 2f33UhFK]CkXkVi48Z`ma0
+l14
+L13
+VAl]HWMcPLecO:T>CCVBXV0
+OE;C;5.5e;15
+31
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work
+tExplicit T
+Etbc
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1635865778
+dC:\Users\P.O.M.G\Desktop\MOD_9_counter
+FC:/Users/P.O.M.G/Desktop/MOD_9_counter/testbench.vhd
+l0
+L7
+Vj3WHZKEFbJeTzO9093:]J2
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Atestbench
+DE work mod9_counter 2f33UhFK]CkXkVi48Z`ma0
+DE work tbc j3WHZKEFbJeTzO9093:]J2
+l22
+L10
+VnQ8]WON^HY36TdfMJRgL60
+OE;C;5.5e;15
+31
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work
+tExplicit T

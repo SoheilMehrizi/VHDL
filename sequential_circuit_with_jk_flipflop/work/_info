@@ -1,0 +1,53 @@
+m255
+o
+cModel Technology
+dC:\Modeltech_5.5e\examples
+Ejk_ff
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636112358
+dC:\Users\P.O.M.G\Desktop\sequential_circuit_with_jk_flipflop
+FC:/Users/P.O.M.G/Desktop/sequential_circuit_with_jk_flipflop/jkff_Module.vhd
+l0
+L6
+VlQVDCN[O^^3kZf0jQg07D2
+OE;C;5.5e;15
+o-work work
+tExplicit T
+Abehavioral
+DE work jk_ff lQVDCN[O^^3kZf0jQg07D2
+l15
+L12
+VR@jZ1H0lgTBNTTY:`P>5Z3
+OE;C;5.5e;15
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work
+tExplicit T
+Esqctb
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636112212
+dC:\Users\P.O.M.G\Desktop\sequential_circuit_with_jk_flipflop
+FC:/Users/P.O.M.G/Desktop/sequential_circuit_with_jk_flipflop/testbench.vhd
+l0
+L6
+VI055lheRS=DD?Y8lYQX8h2
+OE;C;5.5e;15
+o-work work
+tExplicit T
+Atestbench
+DE work jk_ff lQVDCN[O^^3kZf0jQg07D2
+DE work sqctb I055lheRS=DD?Y8lYQX8h2
+l18
+L11
+VIB?LCi9c0:zeJ@<nXEaUT2
+OE;C;5.5e;15
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work
+tExplicit T

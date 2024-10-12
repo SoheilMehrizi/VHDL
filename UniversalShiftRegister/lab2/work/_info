@@ -1,0 +1,192 @@
+m255
+o
+cModel Technology
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab1
+Ed_ff
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681154770
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/DFlipFlop.vhd
+l0
+L7
+V<Ala1^<Tj6]26`4ddN_VE0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Abehavioral
+DE work d_ff <Ala1^<Tj6]26`4ddN_VE0
+l13
+L12
+VUz7B>1J6fT7cJ[N8Qa^:80
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Edff_testbench
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681202099
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/DFlipFlopTestBench.vhd
+l0
+L6
+V<n<GOa9Y?D?cV7<HnEL>k1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atestbench
+DE work d_ff <Ala1^<Tj6]26`4ddN_VE0
+DE work dff_testbench <n<GOa9Y?D?cV7<HnEL>k1
+l17
+L9
+VCa__3oJHzC8S<6I?kLMc63
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Emultiplexer
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681154783
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/Multiplexer.vhd
+l0
+L6
+VViMj8]bF=M4d^g8]i1Ed=3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Astructure
+DE work multiplexer ViMj8]bF=M4d^g8]i1Ed=3
+l13
+L12
+VUajK;:o[F0fgOb1SFXXOJ0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Emultiplexer_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681159767
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/Multiplexer_2_1_tb.vhd
+l0
+L5
+VFO@>_4N:ggZY?L;iVC=FD2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atb
+DE work multiplexer ViMj8]bF=M4d^g8]i1Ed=3
+DE work multiplexer_tb FO@>_4N:ggZY?L;iVC=FD2
+l17
+L8
+V6IZhRTIWUZ_Mj<hJTci]a2
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Euniversalshiftregister
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681204146
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/UniversalShiftRegister.vhd
+l0
+L4
+V:bnW:KU]Cak:Ol4hn^COS2
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Astructure
+DE work d_ff <Ala1^<Tj6]26`4ddN_VE0
+DE work multiplexer ViMj8]bF=M4d^g8]i1Ed=3
+DE work universalshiftregister :bnW:KU]Cak:Ol4hn^COS2
+l31
+L12
+V`U@z0fWgO2:Kb0<8O`dDI3
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Euniversalshiftregister_parallelload
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681238239
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/UniversalShiftRegister_parallelload.vhd
+l0
+L4
+V>9R9ngFckQP;2=j]R2EG]3
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atestbench
+DE work universalshiftregister :bnW:KU]Cak:Ol4hn^COS2
+DE work universalshiftregister_parallelload >9R9ngFckQP;2=j]R2EG]3
+l23
+L7
+V^7JgdDJN0c8Y?TJ<KBi6a0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Euniversalshiftregister_shifttoleft
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681241229
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/UniversalShiftRegister_ShiftToLeft.vhd
+l0
+L4
+V]MJeM<jLbTVfLcNmT29K60
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atestbench
+DE work universalshiftregister :bnW:KU]Cak:Ol4hn^COS2
+DE work universalshiftregister_shifttoleft ]MJeM<jLbTVfLcNmT29K60
+l23
+L7
+VhdKC?RSofQ`<h67EUXI<B0
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Euniversalshiftregister_shifttoright
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681766460
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/UniversalShiftRegister_ShiftToRight.vhd
+l0
+L4
+VUNzCYikGR?75;3`fdeM@K0
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atestbench
+DE work universalshiftregister :bnW:KU]Cak:Ol4hn^COS2
+DE work universalshiftregister_shifttoright UNzCYikGR?75;3`fdeM@K0
+l23
+L7
+V0GEag]TY@UG^ebDMSo5D@2
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T
+Euniversalshiftregister_tb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1681204704
+dE:\University\University\1401\AzSystem\AzSystemLab1_UniversalShiftRegister\lab2
+FE:/University/University/1401/AzSystem/AzSystemLab1_UniversalShiftRegister/lab2/UniversalShiftRegister_tb.vhd
+l0
+L4
+VVgJ6@5k3b>9zATLhhifkQ1
+OE;C;5.5e;15
+o-work work -87 -explicit
+tExplicit T
+Atestbench
+DE work universalshiftregister :bnW:KU]Cak:Ol4hn^COS2
+DE work universalshiftregister_tb VgJ6@5k3b>9zATLhhifkQ1
+l23
+L7
+V>868A[@0DKV_]L2AO3>fe2
+OE;C;5.5e;15
+M1 ieee std_logic_1164
+o-work work -87 -explicit
+tExplicit T

@@ -1,0 +1,102 @@
+m255
+o
+cModel Technology
+dC:\Users\P.O.M.G\Desktop\SRFF
+Enand_2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1635671536
+FC:/Users/P.O.M.G/Desktop/SRFF/2port_nandgate.vhd
+l0
+L4
+VC6iMNUJh`nKz;>aYHe=eL3
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Adataflow_nand2
+DE work nand_2 C6iMNUJh`nKz;>aYHe=eL3
+l10
+L9
+V;nVkZUKR@7MOC0No5d;CH1
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
+Enand_2signal
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1635513130
+FC:/Users/P.O.M.G/Desktop/SRFF/nand_2signal.vhd
+l0
+L3
+Vbb5I:6NTa<L1b?KdVPOQ_3
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Anand_gate
+DE work nand_2signal bb5I:6NTa<L1b?KdVPOQ_3
+l10
+L9
+V>hI3c@RhOfjo?8K@IGD]K2
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
+Esrff_signals
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1635517173
+FC:/Users/P.O.M.G/Desktop/SRFF/S_R_FF_NAND_GATE .vhd
+l0
+L5
+VZDnl_me8Q8eENnBz5bVeW0
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Esrlatch
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636119089
+FC:/Users/P.O.M.G/Desktop/SRFF/Structural_SRlath.vhd
+l0
+L5
+V2gHh=nCoeJ8XmlEb6l>mK0
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Astructural_srlatch
+DE work srlatch 2gHh=nCoeJ8XmlEb6l>mK0
+l13
+L11
+V05z^Ko^`^7BCAz6^eO18P2
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
+Etbssrl
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636118910
+FC:/Users/P.O.M.G/Desktop/SRFF/testbench.vhd
+l0
+L4
+VD0HaZ>fjiZZkEQ>FYYj;f3
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Atestbench
+DE work srlatch 2gHh=nCoeJ8XmlEb6l>mK0
+DE work tbssrl D0HaZ>fjiZZkEQ>FYYj;f3
+l13
+L6
+V28`3zJL9ibX`W98]mQ;io3
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T

@@ -1,0 +1,49 @@
+m255
+o
+cModel Technology
+dC:\Users\P.O.M.G\Desktop\SRFF
+Estatemachine
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636029260
+dC:\Users\P.O.M.G\Desktop\State Machine
+FC:/Users/P.O.M.G/Desktop/State Machine/statemachinebehavioral.vhd
+l0
+L4
+V[Seo0_O9PJbYK[Vj?RH@M1
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Abehavioral
+DE work statemachine [Seo0_O9PJbYK[Vj?RH@M1
+l15
+L12
+VO_D1k;UPD_a@TdQ<hC6A43
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
+Etbsm
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636029232
+dC:\Users\P.O.M.G\Desktop\State Machine
+FC:/Users/P.O.M.G/Desktop/State Machine/testbench.vhd
+l0
+L5
+VPL?9g[XUgZEJ93YMLjeEW0
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Atestbench
+DE work statemachine [Seo0_O9PJbYK[Vj?RH@M1
+DE work tbsm PL?9g[XUgZEJ93YMLjeEW0
+l17
+L8
+V`DXefg7[dX]hECneP556:3
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T

@@ -1,0 +1,49 @@
+m255
+o
+cModel Technology
+dC:\Modeltech_5.5e\examples
+Eshift_register
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636104902
+dC:\Users\P.O.M.G\Desktop\16_bit_shift_register_parallel
+FC:/Users/P.O.M.G/Desktop/16_bit_shift_register_parallel/behaviore.vhd
+l0
+L4
+VQXJD^9bTC`B:zB]k@;UIH3
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Abehave
+DE work shift_register QXJD^9bTC`B:zB]k@;UIH3
+l13
+L11
+V[z]5[:_C03b88cSl5ZWTP1
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
+Eshrtb
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1636103932
+dC:\Users\P.O.M.G\Desktop\16_bit_shift_register_parallel
+FC:/Users/P.O.M.G/Desktop/16_bit_shift_register_parallel/testbench.vhd
+l0
+L3
+VRML@H0Mb@38IYf5^jSL?13
+OE;C;5.5e;15
+31
+o-work work
+tExplicit T
+Atestbench
+DE work shift_register QXJD^9bTC`B:zB]k@;UIH3
+DE work shrtb RML@H0Mb@38IYf5^jSL?13
+l14
+L5
+Vg<hX]c6R;fP0i>5K0;Qnb2
+OE;C;5.5e;15
+31
+M1 ieee std_logic_1164
+o-work work
+tExplicit T
